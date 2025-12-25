@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "DUN DUN",
+  "base_artist": "EVERGLOW",
+  "createdAt": "2025-12-25T01:22:50.288629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dun Dun Ba Ba - Interlude",
+      "artist": "Jacob Collier",
+      "has_synced": true,
+      "path": "select/01_Dun_Dun_Ba_Ba_-_Interlude_Jacob_Collier.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dun Dun",
+      "artist": "Joy Orbison & Boddika",
+      "has_synced": false,
+      "path": "select/02_Dun_Dun_Joy_Orbison_&_Boddika.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DUN DUN",
+      "artist": "EVERGLOW",
+      "has_synced": true,
+      "path": "select/03_DUN_DUN_EVERGLOW.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dun Dun Dance",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/04_Dun_Dun_Dance_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DUN DUN",
+      "artist": "EVERGLOW (에버글로우)",
+      "has_synced": true,
+      "path": "select/05_DUN_DUN_EVERGLOW_(에버글로우).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dun Dun",
+      "artist": "EVERGLOW",
+      "has_synced": true,
+      "path": "select/06_Dun_Dun_EVERGLOW.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dun Dun",
+      "artist": "Los Amigos Invisibles",
+      "has_synced": true,
+      "path": "select/07_Dun_Dun_Los_Amigos_Invisibles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dun Dun Dance",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/08_Dun_Dun_Dance_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dun Dun Dance Japanese ver.",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/09_Dun_Dun_Dance_Japanese_ver._OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dun Dun Dance Japanese ver. (instrumental)",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/10_Dun_Dun_Dance_Japanese_ver._(instrumental)_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DUN DUN",
+      "artist": "EVERGLOW",
+      "has_synced": true,
+      "path": "select/11_DUN_DUN_EVERGLOW.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dun Dun Dance Japanese version",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/12_Dun_Dun_Dance_Japanese_version_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DUN DUN",
+      "artist": "EVERGLOW",
+      "has_synced": false,
+      "path": "select/pl_01_DUN_DUN_EVERGLOW.txt"
+    }
+  ]
+}
