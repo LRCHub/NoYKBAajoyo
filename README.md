@@ -1,0 +1,74 @@
+# EVERGLOW – DUN DUN
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.33] Yeah, EVERGLOW (whoo)
+[00:19.38] 북을 울려라, pa-rum, pum-pum-pum-pum-pum
+[00:23.13] (Oh, yeah, oh, yeah)
+[00:24.83] 노랠 불러라, tra-na-na-na-na-na-na
+[00:27.65] (Uh, oh, yeah, oh, yeah)
+[00:39.65] 
+[00:29.84] 등장부터 좀 거칠게 갈 테니까 (eh-oh)
+[00:32.59] 깜짝 놀라지 마
+[00:35.39] 입에서 입으로 전해져 난 (uh)
+[00:38.10] 방금 스친 애 보통 아니라고
+[00:45.60] 
+[00:41.47] 깊은 이 정글도 나에겐 짜릿한 놀이터
+[00:43.96] Alright, 난 골랐어 (나나나나나나)
+[00:49.24] 너의 그 심장에 내 이름 하나를 남길래
+[00:53.75] So, you had better run
+[01:04.75] 
+[00:57.15] You're so done, dun-dun-da-dan, dun-dun-da-dan, dun-dun, da-ra-ra-ra
+[01:02.33] You're so done
+[01:06.47] Now you're done
+[01:13.97] 
+[01:11.58] 나의 눈빛에 갇힌 (dun, dun!)
+[01:14.71] 작은 어린 양같이 (hey)
+[01:17.44] Dun-dun-da-dan, dun-dun-da-dan
+[01:19.30] Baby, 꼼짝 못 할 걸
+[01:26.30] 
+[01:23.78] 내가 보기와 좀 달라 (달라)
+[01:25.86] 거침없지 so strong (strong)
+[01:27.97] 잠깐 방심하는 찰나 (찰나)
+[01:30.48] 뒤집어버려 bomb, the bomb
+[01:32.84] 순식간에 제압해, 네 숨을 턱 막히게 해
+[01:35.90] 말투는 cool, 나의 몸짓은 hot like (uh)
+[01:38.23] 우아하게 난 지금 won't stop
+[01:40.91] Can't stop, 너를 노려 (hey, huh)
+[01:54.91] 
+[01:42.93] 뛰어 달아나도, 결국엔 조그만 무인도
+[01:46.74] Alright, 다 끝났어 (나나나나나나)
+[01:51.94] 너의 그 심장에 내 모습 하나를 새길래
+[01:56.15] So, you had better run
+[02:07.15] 
+[01:59.92] You're so done, dun-dun-da-dan, dun-dun-da-dan, dun-dun, da-ra-ra-ra
+[02:05.37] Now you're done, dun-dun-da-dan, dun-dun-da-dan, dun-dun, da-ra-ra-ra
+[02:39.87] 
+[02:10.29] (I'm new way) 나의 눈빛에 갇힌 (dun, dun!)
+[02:13.46] 작은 어린 양같이
+[02:15.29] Dun-dun-da-dan, dun-dun-da-dan
+[02:17.77] Baby, 꼼짝 못 할 걸
+[02:24.77] 
+[02:19.85] 난 깊이, 널 깊이, 더 깊이 파고들어
+[02:24.18] 끝까지 확실히 단단히 움켜쥐어
+[02:28.75] 나를 우러러 (바라보겠지)
+[02:31.13] 나를 외치고 (부르짖겠지)
+[02:33.62] 그래, 아마 넌 (내 것이겠지)
+[02:35.88] 넌 전부 다 읽혔어
+[02:40.88] 
+[02:38.28] You're so done, dun-dun-da-dan, dun-dun-da-dan, dun-dun, da-ra-ra-ra
+[02:42.15] You're so done (dun-dun-da-dan, dun-dun-da-dan, dun-dun, da-ra-ra-ra)
+[02:46.96] Now you're done (dun-dun-da-dan, dun-dun-da-dan, dun-dun, da-ra-ra-ra)
+[03:21.96] 
+[02:51.75] 나의 눈빛에 갇힌 (dun, dun!)
+[02:54.85] 작은 어린 양같이 (that's right)
+[02:57.60] Dun-dun-da-dan, dun-dun-da-dan
+[02:59.66] Baby, 꼼짝 못 할걸 (whoo!)
+[03:10.16] 
+[03:04.21] (나나나나나나나) Huh, huh, huh
+[03:08.18] You're so (나나나나나나나)
+[03:10.93] Dun, dun! (나나나나나나나)
+[03:14.99] Dun, dun!
+[03:18.42] Baby, 꼼짝 못 할걸
+```
